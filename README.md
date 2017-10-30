@@ -8,6 +8,7 @@ Based on this, we have couple ideas:
 1. Audiences input sentences. Texts show on the big screen in real time along with real time computer generated images/animations. The robot's behavior becomes more and more messy to convey the state that lots of outside ideas come in that you don't know what to do.
 2. Group's behavior. People can control where the robot goes. Someone may want to push the robot off the stage, while others want to save the robot. The performace can show the decision made by the group.
 
+We need an Arduino Yun.
 
 
 A Robotic Performance: https://youtu.be/O-bjTfYILPs
