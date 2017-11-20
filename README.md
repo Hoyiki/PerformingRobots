@@ -1,5 +1,13 @@
 # PerformingRobots
+Update 11/20
 
+Visit FinalProject folder for updates regarding the final project.
+
+
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------
 The main character of the performance is a robot that pick up phone and answer customer service phone calls. He gets tired of answering phone call all day long and want to try something different. 
 
 * Areas of greatest risk or uncertainty: audience interaction and robot movement
