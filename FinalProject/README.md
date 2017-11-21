@@ -26,3 +26,9 @@ The whole robot will be covered by fabric that makes the robot looks not robotic
 
 
 -Parts List: Arduino uno, bluetooth, two servos, one dc motor, four 5V batteries and one 9V battery.
+
+-Outline of the program
+
+The movement of getting the phone and putting it back are two series of programmed movement. 
+
+Telephone rings -> Bluetooth tells the robot to pick up the phone -> Two servos moves to pick up the phone -> The robot stops talking -> Bluetooth tells the robot to put down the phone -> Two servos moves to put down the phone
