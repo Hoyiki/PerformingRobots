@@ -1,5 +1,8 @@
 Final Project Writeup
 
+[![Alt text for your video](https://img.youtube.com/vi/t6llpQqZDr8/0.jpg)](https://youtu.be/t6llpQqZDr8)
+
+
 I want my robot to be a cute and lazy telephone robot. I made the movement of the robot arm slow when the robot picks up the telephone to make the robot look not very passionate about his job. The arm is built with thick acrylic. The robot body is built with fabric to get rid of the robotic image of a robot. I am very happy about how the design of the arm turn out to be. For the stuffed fabric body, I planned to put a mechanics inside the robot body to make the mouth move up and down, but the way that I sewed the mouth made it hard to be moved. I would redesign the mouth structure of the robot to make the open and close of the mouth independent from the fabric of the body.
 
 I learnt about how the servos works and how to design a structure using the movement of servos. I learnt it by talking to the professor. And I learnt about working with sewing machine and fabric. I got help for Judy in the costume shop.
